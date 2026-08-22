@@ -16,4 +16,5 @@ DICAS:
 ---
 - Faça todos os exercícios dos slides após a aula (não deixe acumular para a semana da prova, não vai dar tempo)
 - Façam todos os TPs quando forem lançados, não deixe para última hora
-- Se você estiver com o professor Max, ele é muito justo, cobra exatamente os exercícios dos slides
+- Se você estiver com o professor Max, ele é muito justo, cobra exatamente os exercícios dos slides na prova
+- Realmente assista e pratique para o quiz, os pontos dele podem salvar sua nota no final do semestre
