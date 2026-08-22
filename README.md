@@ -2,6 +2,7 @@
 Repositório para ajudar alunos de AEDS II.
 
 DIVISÃO DE PONTOS:
+----
 QUIZ | 15 pontos
 ---
 PROVAS TEÓRICAS | 15 pontos cada uma (3 provas).
