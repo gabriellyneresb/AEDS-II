@@ -1,4 +1,4 @@
-//Gabrielly Neres - 859422
+//Gabrielly Neres
 
 import java.util.Scanner;
 
