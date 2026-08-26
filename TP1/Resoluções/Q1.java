@@ -28,7 +28,7 @@ public static boolean strcmp (String a, String b){
 	tam1 = a.length();
 	tam2 = b.length();
 
-	if (tam1 < tam2 || tam1 > tam1){
+	if (tam1 < tam2 || tam1 > tam2){
 		resp = false;
 	} else {
 		for(int i = 0; i < tam1 && i < tam2; i++){
