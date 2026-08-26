@@ -7,7 +7,7 @@ public class Q12{
 		if(n == 0){
 		    return 0;
 		}
-
+		// soma os digitos que sao o resto da divisao de n por 10 
 		return n%10 + soma(n/10);
 	}
 
