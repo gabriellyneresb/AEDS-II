@@ -1,5 +1,5 @@
 # AEDS-II
-Repositório para ajudar alunos de AEDS II.
+Repositório com códigos e conteúdos da disciplina.
 
 DIVISÃO DE PONTOS:
 ----
